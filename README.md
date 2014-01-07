@@ -18,4 +18,5 @@ Technologies
 <ul>
  <li>Groovy</li>
  <li>Gradle</li>
+ <li>Java 8 (https://jdk8.java.net/) </li>
 </ul>
